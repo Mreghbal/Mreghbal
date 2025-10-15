@@ -27,33 +27,6 @@ I drive innovation by:
 
 ---
 
-### Tech I use
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/JupyterLab-F37626?logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-003B57?logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <!-- Security / Crypto toolchain -->
-  <img src="https://img.shields.io/badge/SHA--256-4D4D4D" />
-  <img src="https://img.shields.io/badge/OpenSSL-721412?logo=openssl&logoColor=white" />
-  <img src="https://img.shields.io/badge/cryptography%20(py)-2E3440" />
-  <img src="https://img.shields.io/badge/hashlib-2E7D32" />
-  <img src="https://img.shields.io/badge/Blockchain-121D33?logo=ethereum&logoColor=white" />
-</p>
-
----
-
 ### Healthcare datasets & sources I track/use
 > Access/usage varies (open, application-based, or restricted).  
 > I strictly follow licensing, privacy, and ethics guidelines.
@@ -80,8 +53,3 @@ I drive innovation by:
 - **CheXpert**, **ChestX-ray14**, **LUNA16**, **ISIC** (dermatology), **HAM10000**
 
 ---
-
-<!-- Optional: profile trophies (remove if you prefer cleaner look) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mreghbal&margin-w=8&theme=flat" alt="trophies" />
-</p>
